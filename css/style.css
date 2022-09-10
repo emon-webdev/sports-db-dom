@@ -1,0 +1,51 @@
+.container, .container-md, .container-sm {
+    max-width: 870px;
+}
+body{
+    box-sizing: border-box;
+
+}
+#mail, #femail{
+    display: none;
+}
+#spinner{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
